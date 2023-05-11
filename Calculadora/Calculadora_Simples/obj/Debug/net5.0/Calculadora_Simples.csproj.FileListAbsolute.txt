@@ -1,0 +1,16 @@
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\bin\Debug\net5.0\Calculadora_Simples.exe
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\bin\Debug\net5.0\Calculadora_Simples.deps.json
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\bin\Debug\net5.0\Calculadora_Simples.runtimeconfig.json
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\bin\Debug\net5.0\Calculadora_Simples.runtimeconfig.dev.json
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\bin\Debug\net5.0\Calculadora_Simples.dll
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\bin\Debug\net5.0\ref\Calculadora_Simples.dll
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\bin\Debug\net5.0\Calculadora_Simples.pdb
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\obj\Debug\net5.0\Calculadora_Simples.csproj.AssemblyReference.cache
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\obj\Debug\net5.0\Calculadora_Simples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\obj\Debug\net5.0\Calculadora_Simples.AssemblyInfoInputs.cache
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\obj\Debug\net5.0\Calculadora_Simples.AssemblyInfo.cs
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\obj\Debug\net5.0\Calculadora_Simples.csproj.CoreCompileInputs.cache
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\obj\Debug\net5.0\Calculadora_Simples.dll
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\obj\Debug\net5.0\ref\Calculadora_Simples.dll
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\obj\Debug\net5.0\Calculadora_Simples.pdb
+D:\Atalhos Area de trabalho\scripts\Csharp Linguagem\GitC#\Calculadora\Calculadora_Simples\obj\Debug\net5.0\Calculadora_Simples.genruntimeconfig.cache
